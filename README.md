@@ -7,4 +7,5 @@ I'm censoring service names as a feeble attempt to be able to use these lists lo
 STATUS:
 
 S0undcloud: skipping, pausing
+
 Sp0tify: In progress

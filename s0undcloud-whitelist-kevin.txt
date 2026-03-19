@@ -15,3 +15,14 @@ graph.soundcloud.com
 soundcloud.cloud
 soundcloud.com
 www.soundcloud.com
+
+
+d3ad8414wy4gwn.cloudfront.net
+e673.dsce9.akamaiedge.net
+d1u08w08on97dm.cloudfront.net
+scontent-lga3-2.xx.fbcdn.net
+configuration.ls.v.aaplimg.com
+d2of0gfv69hsgh.cloudfront.net
+playback.media-streaming.soundcloud.cloud
+d1txhlldn8l7m5.cloudfront.net
+

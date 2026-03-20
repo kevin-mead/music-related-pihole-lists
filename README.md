@@ -30,6 +30,7 @@ pihole -g
 Signs that s0undcloud is mad at you:
 - The player waits 3-10 seconds between songs
 - The player is skipping songs
+- Album art dissapears
 
 ## Relevant Links
 

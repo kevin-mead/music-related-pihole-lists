@@ -36,11 +36,6 @@ Signs that s0undcloud is mad at you:
 
 This [Reddit thread](https://www.reddit.com/r/pihole/comments/1h7s1nr/finally_got_soundcloud_mobile_desktop_working/).
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## Disclaimer
 
 Using Pi-Hole/DNS blocklists is not illegal in my jurisdiction, or most for that matter. It may break terms of service for any given service/result in bad things happening (like account bans). Use these lists and Pi-Hole at your own risk, obviously.

@@ -30,15 +30,11 @@ pihole -g
 Signs that s0undcloud is mad at you:
 - The player waits 3-10 seconds between songs
 - The player is skipping songs
+- Album art dissapears
 
 ## Relevant Links
 
 This [Reddit thread](https://www.reddit.com/r/pihole/comments/1h7s1nr/finally_got_soundcloud_mobile_desktop_working/).
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## Disclaimer
 
